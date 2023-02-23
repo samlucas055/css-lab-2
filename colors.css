@@ -1,0 +1,21 @@
+/* colors.css -- Controlling the colors and borders for Lab 4
+ * author:
+ */
+
+
+ header {
+    background-color: #450084;
+    color: white;
+    border-bottom: solid 8px #dacce6;
+}
+
+body {
+    background-color: #dfd2aa;
+}
+
+section {
+    background-color: #f4efe1;
+    border: solid 2px black;
+    border-radius: 6px;
+
+}
